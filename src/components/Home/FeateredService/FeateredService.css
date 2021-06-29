@@ -1,0 +1,25 @@
+
+         .learn-more {background-image: linear-gradient(to right, #1CC7C1 0%, #1CC7C1  51%, #1CC7C1  100%)}
+         .learn-more {
+            margin: 10px 0;
+            padding: 10px 30px;
+            text-align: center;
+            text-transform: uppercase;
+            transition: 0.5s;
+            background-size: 200% auto;
+            color: white;            
+            /* box-shadow: 0 0 20px #eee; */
+            display: block;
+            border: none;
+          
+          }
+
+          .learn-more:hover {
+            background-position: right center; /* change the direction of the change here */
+            color: #fff;
+            text-decoration: none;
+          }
+          .featuredtext{
+            text-align: justify;
+          }
+         
